@@ -1,9 +1,9 @@
 const BLOG = {
   title: '保研社',
   author: 'B总',
-  email: 'i@craigary.net',
+  email: 'bobbydog102@hotmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '有价值的思考需要文字来呈现',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
